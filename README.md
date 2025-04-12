@@ -1,7 +1,7 @@
 # 🧮 Pythagorean Theorem Calculator
 
 A simple, interactive Python program to calculate one missing side of a **right-angled triangle** using the **Pythagorean theorem**.  
-Built for learners, students, or anyone brushing up on math skills or Python basics.
+Perfect for students learning Python, math, or preparing for GCSE Computer Science.
 
 ---
 
