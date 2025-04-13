@@ -33,7 +33,7 @@ Perfect for students learning Python, math, or preparing for GCSE Computer Scien
 2. Clone or download the Python file.
 3. Run the script:
 
-   python pythagorean_calculator.py
+   python main.py
 
 ---
 
